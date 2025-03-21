@@ -5,7 +5,7 @@
 ## HABILIDADES
 - Resolver problemas complejos
 - trabajo en equipo
-=======
+
  hobbies
 ## HOBBIES
 - musica
